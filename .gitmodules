@@ -10,6 +10,3 @@
 [submodule "Externals/sevenzip"]
 	path = Externals/sevenzip
 	url = https://github.com/WinMerge/sevenzip.git
-[submodule "Externals/freeimage"]
-	path = Externals/freeimage
-	url = https://github.com/WinMerge/freeimage.git
